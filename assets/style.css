@@ -155,7 +155,7 @@ input {
 
 }
 
-label {
+.label {
 
     position: absolute;
     bottom: 20px;
